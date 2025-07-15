@@ -16,7 +16,6 @@ Window {
         anchors.left: parent.left
         anchors.leftMargin: 30
     }
-
     Rectangle{
         id: rect2
         height: 200
