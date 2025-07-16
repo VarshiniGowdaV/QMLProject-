@@ -75,17 +75,3 @@ Window {
             }
         }
     }
-
-
-//         }
-//         Rectangle {
-//             id: circle6
-//             width: 200
-//             height: 200
-//             color: "black"
-//             radius: width / 2
-//             anchors.top: parent.bottom
-//             anchors.horizontalCenter: parent.right
-//         }
-//     }
-// }
