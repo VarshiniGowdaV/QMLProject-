@@ -41,36 +41,3 @@ Window {
         }
     }
 }
-
-
-// import QtQuick
-// import QtQuick.Controls
-// Window {
-//     width: 640
-//     height: 480
-//     visible: true
-//     title: qsTr("Hello World")
-
-//     Loader {
-//             id: pageLoader
-//             anchors.fill: parent
-//             source: "Page1.qml"
-
-//             onLoaded: {
-//                 if (item && item.clickPage) {
-//                 }
-//             }
-//         }
-
-//     Connections {
-//         id: pageConnections
-//         target: ld.item
-//         onPageNclick: {
-//             ld.source = "Page1.qml"
-//         }
-//         onPagePclick:
-//         {
-//             ld.source = "  "
-//         }
-//     }
-// }
